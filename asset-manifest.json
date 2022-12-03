@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolioapp/static/css/main.e94af146.css",
+    "main.js": "/portfolioapp/static/js/main.40f60ec4.js",
+    "static/media/project1.png": "/portfolioapp/static/media/project1.2054760085113f8017be.png",
+    "static/media/project3.png": "/portfolioapp/static/media/project3.9e7f91c313a1655ac43e.png",
+    "static/media/project2.png": "/portfolioapp/static/media/project2.295c05993887c44e824b.png",
+    "static/media/roboto-condensed.light.ttf": "/portfolioapp/static/media/roboto-condensed.light.d9e440de777389435df7.ttf",
+    "static/media/economica-bold.ttf": "/portfolioapp/static/media/economica-bold.ce99c17a86c8c9ef7b81.ttf",
+    "static/media/profile.png": "/portfolioapp/static/media/profile.6f5eeb524f02d8a2bee1.png",
+    "static/media/github_icon.png": "/portfolioapp/static/media/github_icon.ccc9e19951ebe8134688.png",
+    "static/media/linkedin_icon.png": "/portfolioapp/static/media/linkedin_icon.27cd6ff778a81a45fa46.png",
+    "static/media/twitter_icon.png": "/portfolioapp/static/media/twitter_icon.877261bfa2ff69dded07.png",
+    "static/media/email_icon.png": "/portfolioapp/static/media/email_icon.160a6010e180da253390.png",
+    "index.html": "/portfolioapp/index.html",
+    "main.e94af146.css.map": "/portfolioapp/static/css/main.e94af146.css.map",
+    "main.40f60ec4.js.map": "/portfolioapp/static/js/main.40f60ec4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e94af146.css",
+    "static/js/main.40f60ec4.js"
+  ]
+}
